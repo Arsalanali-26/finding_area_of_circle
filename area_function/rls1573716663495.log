@@ -1,0 +1,9 @@
+error: expected one of `->`, `where`, or `{`, found `fn`
+ --> <stdin>:2:1
+  |
+1 | impl Dummy { pub fn area_calcultion_func()
+  |                                           - expected one of `->`, `where`, or `{` here
+2 | fn main() { unimplemented!() } }
+  | ^^ unexpected token
+
+[2019-11-14T07:32:09Z ERROR rls::actions::hover] format_method: error: Failed, input: "impl Dummy { pub fn area_calcultion_func()\nfn main() { unimplemented!() } }"
