@@ -3,7 +3,7 @@ name = "area_function"
 version = "0.1.0"
 authors = ["arsalan.ali"]
 edition = "2018"
-description = "To find the area of circle"
+discription = "To find the area of circle"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/Arsalanali-26/finding_area_of_circle"
 
